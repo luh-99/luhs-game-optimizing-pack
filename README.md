@@ -3,8 +3,7 @@ A modpack for Minecraft. If you want to download, it is on Modrinth.
  
 # Optional Mods (Couldn't fit in Modrinth Description)
 ----
-- [Nvidium](https://modrinth.com/mod/nvidium)
-> **ONLY INSTALL THIS IF U HAVE AN NVIDIA GRAPHICS CARD**
+- [Nvidium (**ONLY INSTALL THIS IF U HAVE AN NVIDIA GRAPHICS CARD**)](https://modrinth.com/mod/nvidium)
 - [Very Many Players (**Recommended if you play multiplayer**)](https://modrinth.com/mod/vmp-fabric)
 - [Litematica](https://github.com/sakura-ryoko/litematica)
 - [Malilib **(NEEDED FOR LITEMATICA)](https://github.com/sakura-ryoko/malilib)

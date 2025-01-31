@@ -6,7 +6,7 @@ A modpack for Minecraft. If you want to download, it is on Modrinth.
 - [Nvidium (**ONLY INSTALL THIS IF U HAVE AN NVIDIA GRAPHICS CARD**)](https://modrinth.com/mod/nvidium)
 - [Very Many Players (**Recommended if you play multiplayer**)](https://modrinth.com/mod/vmp-fabric)
 - [Litematica](https://github.com/sakura-ryoko/litematica)
-- [Malilib **(NEEDED FOR LITEMATICA)](https://github.com/sakura-ryoko/malilib)
+- [Malilib **(NEEDED FOR LITEMATICA)**](https://github.com/sakura-ryoko/malilib)
 - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 - [Jump Over Fences](https://modrinth.com/mod/jump-over-fences)
 - [Emoji Type](https://modrinth.com/mod/emoji-type)

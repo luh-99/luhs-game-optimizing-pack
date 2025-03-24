@@ -1,5 +1,6 @@
 # luh-s-game-optimizing-pack
-A modpack for Minecraft. If you want to download, it is on Modrinth.
+A modpack for Minecraft. If you want to download it, it is on Modrinth.
+**It is not available on Modrinth yet. I am still figuring out how to make the mod pack compatible to upload**
  
 # Optional Mods (Couldn't fit in Modrinth Description)
 ----
